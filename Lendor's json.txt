@@ -112,7 +112,8 @@
         "contactNumber": "123-456-7890",
         "loanAmount": 15000,
         "loanStatus": "Active",
-        "dateOfLoanIssuance": "2024-06-01"
+        "dateOfLoanIssuance": "2024-06-01",
+        "cibilScore": 750
       },
       {
         "borrowerName": "Jane Smith",
@@ -120,7 +121,8 @@
         "contactNumber": "234-567-8901",
         "loanAmount": 8000,
         "loanStatus": "Completed",
-        "dateOfLoanIssuance": "2023-11-15"
+        "dateOfLoanIssuance": "2023-11-15",
+        "cibilScore": 720
       },
       {
         "borrowerName": "Bob Johnson",
@@ -128,7 +130,8 @@
         "contactNumber": "345-678-9012",
         "loanAmount": 12500,
         "loanStatus": "Defaulted",
-        "dateOfLoanIssuance": "2022-05-10"
+        "dateOfLoanIssuance": "2022-05-10",
+        "cibilScore": 680
       }
     ],
     "borrowerDetails": {
